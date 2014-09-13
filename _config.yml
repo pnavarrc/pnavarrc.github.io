@@ -1,0 +1,26 @@
+# Site configuration
+
+# Parsing
+safe: true
+encoding: "utf-8"
+exclude:
+    - bower_components
+    - node_modules
+
+markdown: kramdown
+permalink: pretty
+
+# Site settings
+title: Pablo Navarro
+email: your-email@domain.com
+description: Pablo Navarro Personal Site
+baseurl: ""
+url: "http://pnavarrc.github.io"
+twitter_username: pnavarrc
+github_username:  pnavarrc
+
+images: /assets/images
+screenshots: /assets/images/screenshots
+thumbnails: /assets/images/thumbnails
+
+
