@@ -7891,16 +7891,29 @@ h2 {
   background-color: #eee;
 }
 .footer {
-  height: 120px;
-  padding-top: 40px;
+  height: 110px;
+  padding-top: 20px;
   border-top: solid 1px #ddd;
   background-color: #eee;
   font-family: 'Droid Sans', sans-serif;
-  font-size: 14px;
-  text-align: center;
+  font-size: 12px;
+  line-height: 1.35;
+}
+.footer h5 {
+  margin-top: 10px;
+  font-size: 12px;
+  font-weight: 700;
 }
 .footer a {
-  color: #555;
+  color: #666;
+}
+.footer .profiles {
+  font-size: 12px;
+  text-align: center;
+}
+.footer .copyright {
+  margin-top: 10px;
+  text-align: center;
 }
 .post-summary {
   margin-top: 20px;
@@ -7953,10 +7966,10 @@ body .full-height {
   min-height: 100%;
   height: auto !important;
   height: 100%;
-  margin-bottom: 0 auto -120px;
+  margin-bottom: 0 auto -110px;
 }
 body .push {
-  height: 120px;
+  height: 110px;
 }
 .github-link {
   margin-top: 20px;

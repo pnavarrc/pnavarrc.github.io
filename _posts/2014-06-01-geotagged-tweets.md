@@ -3,6 +3,7 @@ layout: post
 title:  Visualizing Geotagged Tweets
 date:   2014-06-01
 screenshot: 2014-06-01-geotagged-tweets.png
+categories: project
 ---
 
 Visualization of real-time geotagged tweets. This projects has two main components, the server and the client application.

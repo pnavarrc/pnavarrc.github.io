@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Projects
-shortname: projects
+title: Posts
 ---
 
 # {{ page.title }}
 
-{% for post in site.categories.project %}
+{% for post in site.posts %}
 <div class="row post-summary">
     <div class="col-sm-3">
         <img src="{{site.thumbnails}}/{{post.screenshot}}" alt="" class="img-responsive">        

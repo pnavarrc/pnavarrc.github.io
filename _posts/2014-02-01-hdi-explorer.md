@@ -5,6 +5,7 @@ date:   2014-02-01
 screenshot: 2014-02-01-hdi-explorer.png
 github: https://github.com/pnavarrc/hdi-explorer
 live: http://pnavarrc.github.io/hdi-explorer
+categories: project
 ---
 
 This project uses the [World Bank](http://data.worldbank.org/node/9) API to create a chart showing the evolution of the Human Development index by country. It also displays the most important components of this indicator, like life expectancy, education and average income.
