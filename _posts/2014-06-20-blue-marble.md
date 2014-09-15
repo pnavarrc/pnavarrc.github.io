@@ -5,6 +5,7 @@ date:   2014-06-20
 screenshot: 2014-06-20-blue-marble.png
 github: https://github.com/masegalab/bluemarble
 live: http://masegalab.github.io/bluemarble
+categories: project
 ---
 
 Timelapse showing the changes of the Earth during one year. Monthly images are interpolated to display the continuous change of Earth's landscape during one year.

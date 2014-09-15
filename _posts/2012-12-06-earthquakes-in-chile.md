@@ -5,6 +5,7 @@ date:   2012-12-06
 screenshot: 2012-12-06-earthquakes.png
 github: https://github.com/pnavarrc/earthquake
 live: http://pnavarrc.github.io/earthquake/
+categories: project
 ---
 
 A timelapse animation of the most important seismic events in Chile since 1900. Each earthquake is represented with a red bubble centered in the epicenter, the area of the circle, color and duration of the bubble are proportional to the earthquake magnitude.
