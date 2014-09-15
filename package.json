@@ -1,6 +1,6 @@
 {
   "name": "pnavarrc.github.io",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Pablo Navarro Personal Site",
   "main": "index.js",
   "scripts": {
